@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/splash_screen_01.unity
+    guid: e22f2b69763290e479a074298e0a4f1e
+  - enabled: 1
+    path: Assets/Scenes/menu_02.unity
+    guid: e1d88f04720774b45b05a25cc95cb189
+  - enabled: 1
+    path: Assets/Scenes/iluScene_01/llanta_modelos_03.unity
+    guid: 1e5362f6566446e4d8aac9435479f9b2
+  - enabled: 1
+    path: Assets/Scenes/lose_screen_01.unity
+    guid: 80732caf7a1726849994c1bf5b1bebba
+  - enabled: 1
+    path: Assets/Scenes/win_screen_01.unity
+    guid: eba7e3110c99d6f4483a0bedc4d9eb6f
+  - enabled: 1
+    path: Assets/Scenes/credits_01.unity
+    guid: 5e9133e15914bd84aacf3d203c6deeaf
+  - enabled: 1
+    path: Assets/Scenes/tutorial_03.unity
+    guid: db2d2d0cfd257ff47b9e2b55183ee29c
+  m_configObjects: {}

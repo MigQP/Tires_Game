@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: acd042b6985b76846a05a0d5e3316008
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Barreta
+    100002: Base_trailer
+    100004: empunadura
+    100006: Fondo
+    100008: Gatillo
+    100010: Infladora
+    100012: infladora
+    100014: Infladora_tubo
+    100016: Mesa
+    100018: Paredes
+    100020: pisola_pernos
+    100022: //RootNode
+    100024: Soporte
+    100026: suelo
+    100028: Techo
+    100030: Tubo
+    400000: Barreta
+    400002: Base_trailer
+    400004: empunadura
+    400006: Fondo
+    400008: Gatillo
+    400010: Infladora
+    400012: infladora
+    400014: Infladora_tubo
+    400016: Mesa
+    400018: Paredes
+    400020: pisola_pernos
+    400022: //RootNode
+    400024: Soporte
+    400026: suelo
+    400028: Techo
+    400030: Tubo
+    2100000: Suelo
+    2100002: techo
+    2100004: Suelo_elevadores
+    2100006: Mesa1
+    2100008: Barreta1
+    2100010: Fondo1
+    2100012: Paredes1
+    2100014: Infladora1
+    2100016: infladora_tubo
+    2100018: Empunadura
+    2100020: Gatillo1
+    2100022: Tubo1
+    2100024: Soporte1
+    2300000: Barreta
+    2300002: Base_trailer
+    2300004: empunadura
+    2300006: Fondo
+    2300008: Gatillo
+    2300010: Infladora
+    2300012: Infladora_tubo
+    2300014: Mesa
+    2300016: Paredes
+    2300018: Soporte
+    2300020: suelo
+    2300022: Techo
+    2300024: Tubo
+    3300000: Barreta
+    3300002: Base_trailer
+    3300004: empunadura
+    3300006: Fondo
+    3300008: Gatillo
+    3300010: Infladora
+    3300012: Infladora_tubo
+    3300014: Mesa
+    3300016: Paredes
+    3300018: Soporte
+    3300020: suelo
+    3300022: Techo
+    3300024: Tubo
+    4300000: suelo
+    4300002: Techo
+    4300004: Base_trailer
+    4300006: Mesa
+    4300008: Barreta
+    4300010: Fondo
+    4300012: Paredes
+    4300014: Infladora
+    4300016: Infladora_tubo
+    4300018: empunadura
+    4300020: Gatillo
+    4300022: Tubo
+    4300024: Soporte
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
