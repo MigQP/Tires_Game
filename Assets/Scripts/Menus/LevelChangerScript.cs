@@ -6,6 +6,8 @@ using UnityEngine.SceneManagement;
 
 public class LevelChangerScript : MonoBehaviour {
 
+    // SCENES MANAGER
+
     public Animator animator;
 
     private int levelToLoad;

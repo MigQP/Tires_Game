@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class videoManager : MonoBehaviour {
+
+    /*VIDEO MANAGER VIA HAND GESTURE*/
     public bool leftHandOut;
     public bool rightHandOut;
 

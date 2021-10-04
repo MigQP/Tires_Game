@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class slt : MonoBehaviour {
 
+
+    /*INSERTION OF TIRE WITHIN TRUCK */
+
     public Animator thisTireee;
 
     public MeshRenderer musli;

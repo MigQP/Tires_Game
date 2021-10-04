@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class fallRin : MonoBehaviour {
 
+    // DROP SCREWS FROM TIRE PIECE
+
     private Rigidbody thePerno;
 
     private GameObject thePlayer;

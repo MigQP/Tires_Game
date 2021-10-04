@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class scaleLerper : MonoBehaviour {
 
+    // INCREASE OF TIRE SIZE ON TOOL COLLIDE
+
     public bool shouldLerp;
     public bool hasCreated;
 

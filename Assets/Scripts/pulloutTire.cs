@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class pulloutTire : MonoBehaviour {
 
+    // LEVER MANAGER TO PUT ON TIRE
+
     public Collider tireCollider;
     public Collider jafCollider;
 

@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class pumpTire : MonoBehaviour {
+
+    /*WHEN PUTTING INSIDE THE INFLATE TOOL ON THE TIRE IT CALLS THE SCALERPER AND PRESSOMETER TO INCREASE THE SIZE OF THE TIRE AND MOVE THE PRESSOMETER UI ELEMENT */
+
     public Pressometer inflateZone;
     public scaleLerper increase;
 

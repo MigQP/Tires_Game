@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class ponerPernos : MonoBehaviour {
 
+    // INSERT SCREWS ON TIRE WITH SCREWDRIVER TOOL
+
     public bool hasBeenPut;
 
     private GameObject theHands;

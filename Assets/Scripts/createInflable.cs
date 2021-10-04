@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class createInflable : MonoBehaviour {
 
+    // CREATE HIDDEN INFLABLE TIRE WITHIN MAIN OBJECT
 
     public GameObject inflado;
     public Transform infe;

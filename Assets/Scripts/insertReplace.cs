@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class insertReplace : MonoBehaviour {
 
+    // CHECK IF THE 4 WHEELS SCREWS ARE ON, IF NOT IS POSSIBLE TO INSERT OR TAKE OFF TIRE 
+
     public Collider rinCollider;
 
 

@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class meshOn : MonoBehaviour {
 
-
+    /*WHEN THE TIRE IS PUT INSIDE THERES IS ANOTHER ONE WHICH HAS THE INCREASE SCALE EFFECT
+      THIS SCRIPT CHANGES ONE FOR THE OTHER*/
 
 
     public AudioSource insertionSoundClip;

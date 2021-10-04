@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class auraFold : MonoBehaviour {
 
+    // SELECTION OBJECT TO GIVE FEEDBACK WHEN OBJECT IS GRABBABLE
+
     public GameObject grabAura;
 
 	// Use this for initialization

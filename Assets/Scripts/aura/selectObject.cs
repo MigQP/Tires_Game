@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class selectObject : MonoBehaviour {
 
+    // POINT TO INTERACTABLE TRIGGERS
+
     public GameObject selectionAura;
 
 	// Use this for initialization

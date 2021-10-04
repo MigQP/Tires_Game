@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class infl : MonoBehaviour {
 
+    //SWAP BETWEEN STATIC TIRE AND INFLABLE TIRE
+
     public MeshRenderer inflada;
 
     public SkinnedMeshRenderer carcasa;

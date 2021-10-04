@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class createTool : MonoBehaviour {
 
+    // IN CASE A TOOL IS MISSING OR NOT REACHABLE RE-INSTANTIATE ON BUTTON PRESS
+
     public GameObject theTool;
 
     private Pistola actualTool;

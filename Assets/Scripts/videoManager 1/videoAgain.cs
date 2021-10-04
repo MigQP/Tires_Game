@@ -5,6 +5,8 @@ using UnityEngine.Video;
 
 public class videoAgain : MonoBehaviour {
 
+    /*TUTORIAL VIDEO MANAGER*/
+
     public VideoPlayer theTutorial;
 
     public bool canMoveOn;

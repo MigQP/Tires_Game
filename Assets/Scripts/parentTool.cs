@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class parentTool : MonoBehaviour {
 
+    // PARENT GRABBED TOOL TO PLAYER CAMERA
+
     public Transform leftHandPalm;
 
     public GameObject tool;

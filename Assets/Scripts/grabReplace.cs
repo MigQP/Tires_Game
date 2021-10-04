@@ -5,6 +5,9 @@ using UnityEngine;
 
 public class grabReplace : MonoBehaviour {
 
+    // RESTART TIRE IF MISSING
+
+
     public Animator thisTire;
 
     public bool handLeftColliding;

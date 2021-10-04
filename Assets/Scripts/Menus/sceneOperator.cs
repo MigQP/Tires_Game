@@ -8,6 +8,8 @@ using UnityEngine.Audio;
 
 public class sceneOperator : MonoBehaviour {
 
+    // HAND GESTURE SCENE CHANGER
+
     public int timesSwipped;
 
     public Animator[] thePanels;

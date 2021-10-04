@@ -4,6 +4,10 @@ using Leap.Unity.Interaction;
 using UnityEngine;
 
 public class grabTire : MonoBehaviour {
+
+    // WHEN BOTH HANDS ON TIRE, IS POSSIBLE TO GRAB IT 
+
+
     public Animator actualTire;
     public Rigidbody tireWeight;
 

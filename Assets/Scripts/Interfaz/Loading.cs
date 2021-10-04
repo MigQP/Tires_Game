@@ -7,6 +7,8 @@ using UnityEngine.Audio;
 public class Loading : MonoBehaviour
 {
 
+    /*LOAD SCREEN MANAGER*/
+
     public Image loading;
     public Text timeText;
     public int minutes;

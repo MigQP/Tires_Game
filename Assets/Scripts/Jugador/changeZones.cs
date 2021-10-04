@@ -5,6 +5,8 @@ using UnityEngine.Audio;
 
 public class changeZones : MonoBehaviour {
 
+    /*USE WITH HAND GESTURES TO SWAP BETWEEN GAME ZONES (TOOLS AND TIRE ZONE)*/
+
     public Animator thePlayer;
     private Animator handGesture;
     private Animator gotoGameZone;

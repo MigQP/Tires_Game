@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Inflador : MonoBehaviour {
 
+	/*USE FOR FINDOBJECTOFTYPE*/
+
 	// Use this for initialization
 	void Start () {
 		
