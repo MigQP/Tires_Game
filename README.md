@@ -1,2 +1,2 @@
 # Tires_Game
- Activation of changing tires
+ Game Activation based on chaning tires around the Leap Motion Sensor
